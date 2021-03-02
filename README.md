@@ -1,7 +1,7 @@
 # 1st-SEMISTER-PROJECT
 ## Developing a gaming console in C.
 
-    This is a simple game console made using C language. By **Irfan Asif** (2020BECE060) and **Ankur Narwade** (2020BECE087). 
+    This is a simple game console made using C language. By Irfan Asif (2020BECE060) and Ankur Narwade (2020BECE087). 
 
 ## About The Project.
 
@@ -43,9 +43,9 @@
 4. `#include <time.h>` This header file contains definitions of functions to get and manipulate date and time information.
 5. `#include <string.h>` This library contains functions used for manipulating arrays of characters eg:`strlen().`
 
-## How does the Game Work.
+## How does the Game Work.🔥
 
-      After compiling the code the user will be welcomed with welcome screen. The welcome screen contains option for playing different games. User will have to press 1, 2 or 3 to chose between the games and to exit the console he will be pressing 4.
+     # After compiling the code the user will be welcomed with welcome screen. The welcome screen contains option for playing different games. User will have to press 1, 2 or 3 to chose between the games and to exit the console he will be pressing 4.
 
     **How to play the first game.**
 
