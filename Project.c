@@ -66,7 +66,7 @@ if(gameChoice == 1)
     do  //this loop will run until the value of i == -1
     {
         playingArea();     //draws playingArea
-        player = (player % 2) ? 1 : 2;  /if the value of  the player divided by 2 is 0 or not. if the value of plauer%2 is 1 it will return 1 else 2/
+        player = (player % 2) ? 1 : 2;  //if the value of  the player divided by 2 is 0 or not. if the value of plauer%2 is 1 it will return 1 else 2/
         printf("%sPlayer %d, enter a number:  ",KGRN, player);
         scanf("%d", &numberEntered);
        if (player == 1)
@@ -337,14 +337,14 @@ void playingArea()
     printf("%s     %c     %c     \n", KWHT, 186, 186);
     printf("  %c  %c  %c  %c  %c \n", box[1], 186, box[2], 186, box[3]);
 
-    printf("__%c_%c__\n", 186, 186);
+    printf("_____%c_____%c____\n", 186, 186);
     printf("     %c     %c     \n", 186, 186);
    
    
 
     printf("  %c  %c  %c  %c  %c \n", box[4], 186, box[5], 186, box[6]);
 
-    printf("__%c_%c__\n", 186, 186);
+    printf("_____%c_____%c____\n", 186, 186);
     printf("     %c     %c     \n", 186, 186);
 
     printf("  %c  %c  %c  %c  %c \n", box[7], 186, box[8], 186, box[9]);
