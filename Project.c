@@ -109,7 +109,7 @@ if(gameChoice == 1)
         {
             printf("Invalid move ");
 
-            player--; /decremented the value of the player.If player 1 enters an invalid option the player 1 will get one more chance using player ++/
+            player--; //decremented the value of the player.If player 1 enters an invalid option the player 1 will get one more chance using player ++/
             getch(); //press any button on keybord to enter again 
         }
         i = result(); //it will check for win  or loose or dra,ṁw
