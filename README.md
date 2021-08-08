@@ -1,11 +1,11 @@
 # 1st-SEMISTER-PROJECT
 ## Developing a gaming console in C.
 
-    This is a simple game console made using C language. By Irfan Asif (2020BECE060) and Ankur Narwade (2020BECE087). 
+This is a simple game console made using C language. By Irfan Asif (2020BECE060) and Ankur Narwade (2020BECE087). 
 
 ## About The Project.
 
-    We offer 3 game for the palyers, We offer multiplayer games where the palyer can chose to play again other players or Computer. 
+We offer 3 game for the palyers, We offer multiplayer games where the palyer can chose to play again other players or Computer. 
 
    Games we offer :-
 
@@ -47,15 +47,15 @@
 
      # After compiling the code the user will be welcomed with welcome screen. The welcome screen contains option for playing different games. User will have to press 1, 2 or 3 to chose between the games and to exit the console he will be pressing 4.
 
-    **How to play the first game.**
+>How to play the first game.
 
 In Tic Tac Toe game two players have to play. Player one will be assigned 'X' and palyer Two will be assigned the 'O' symbol. Now turn wise the players will enter the box number where they have to fill their corresponding signs.The first player to get three same symbols in a line will win the game. After that the player will get options either to play again or exit the game.
 
-     **How to play the Second game.**
+>How to play the Second game.
 
 The second game is the die roll game, where the player to get 6 on the die first wins the game. This game console provides the players options to either play with another player or play with computer. After choosing the oponent the games start with asking the players to choose who wants to roll the die first. The players at their turn will haveto press the corresponding buttons shown on the console to roll the die or exit. After the results the player will be asked to return to main page or exit the game.
 
-     **How to play the Second game.**
+>How to play the Second game.
 
 The third game is a virtual locker, where the player will have to enter his code and the nexxt palyer will have to guess the code's character in any order to win the game. When the game starts the console will ask the user to put his code for the first time, once the code is entered it will get saved and will dissapear from the console. After that the next player has to enter the characters one by one and press enter after every time he guess a character. If he guess all the characters, he gets access to the locker.
 
