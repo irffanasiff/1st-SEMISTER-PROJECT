@@ -45,7 +45,7 @@ We offer 3 game for the palyers, We offer multiplayer games where the palyer can
 
 ## How does the Game Work.🔥
 
-     # After compiling the code the user will be welcomed with welcome screen. The welcome screen contains option for playing different games. User will have to press 1, 2 or 3 to chose between the games and to exit the console he will be pressing 4.
+#### After compiling the code the user will be welcomed with welcome screen. The welcome screen contains option for playing different games. User will have to press 1, 2 or 3 to chose between the games and to exit the console he will be pressing 4.
 
 >How to play the first game.
 
